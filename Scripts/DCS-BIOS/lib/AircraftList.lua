@@ -84,6 +84,7 @@ a("Su-33", false)
 --MODs
 a("A-4E-C", true)
 a("A-29B", true)
+a("UH-60L", true)
 a("AC_130", false)
 a("AH-6", true)
 a("Alphajet", true)

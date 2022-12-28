@@ -73,6 +73,7 @@ dofile(lfs.writedir()..[[Scripts\DCS-BIOS\lib\UH-1H.lua]]) -- ID = 38, ProperNam
 dofile(lfs.writedir()..[[Scripts\DCS-BIOS\lib\VNAO_Room.lua]])
 dofile(lfs.writedir()..[[Scripts\DCS-BIOS\lib\VNAO_T-45.lua]]) -- ID = 43, ProperName = T-45 Goshawk
 dofile(lfs.writedir()..[[Scripts\DCS-BIOS\lib\Yak-52.lua]]) -- ID = 39, ProperName = Yak-52
+dofile(lfs.writedir()..[[Scripts\DCS-BIOS\lib\UH-60L.lua]]) -- ID = 45, ProperName = UH-60L
 ----------------------------------------------------------------------------Modules End--------------------------------------
 dofile(lfs.writedir()..[[Scripts\DCS-BIOS\BIOSConfig.lua]])
 
